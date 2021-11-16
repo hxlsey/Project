@@ -79,7 +79,8 @@ hr {
 
     outline: none;
     display: block;
-    margin-left: 480px;
+    margin-top: 10px;
+    margin-left: 300px;
     border: 0;
     font-size: 16px;
     line-height: 1;
@@ -100,7 +101,8 @@ hr {
 
     outline: none;
     display: block;
-    margin-left: 480px;
+    margin-top: 10px;
+    margin-left: 400px;
     border: 0;
     font-size: 16px;
     line-height: 1;
